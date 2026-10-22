@@ -17,11 +17,6 @@ window.GDI = {
       "price": 89.99,
       "image": "czapka-z-daszkiem"
     },
-    "czapka-zimowa": {
-      "name": "Czapka zimowa GDi",
-      "price": 69.99,
-      "image": "czapka-zimowa"
-    },
     "plecak-gdi": {
       "name": "Plecak GDi",
       "price": 159.99,
