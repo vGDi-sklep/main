@@ -49,19 +49,6 @@
       "material": "Akryl z domieszką wełny, płaski daszek, zapięcie snapback."
     },
     {
-      "slug": "czapka-zimowa",
-      "name": "Czapka zimowa GDi",
-      "category": "ubrania",
-      "price": 69.99,
-      "images": ["czapka-zimowa"],
-      "sizes": ["Uniwersalny"],
-      "short": "Czarny beanie z wywinięciem i pikselową naszywką GDi.",
-      "description": [
-        "Ciepła czapka na zimę, kiedy biom za oknem zmienia się na śnieżny. Pikselowa naszywka na wywinięciu."
-      ],
-      "material": "100% akryl, ściągacz, uniwersalny rozmiar."
-    },
-    {
       "slug": "plecak-gdi",
       "name": "Plecak GDi",
       "category": "akcesoria",
